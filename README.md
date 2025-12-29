@@ -21,7 +21,6 @@ MoveIt2 기반 Motion Planning 및 Trajectory Execution을 수행합니다.
 
 
 3. 패키지 구조
----
 ros2_ws/
 ├── src/
 │ └── my_ros2_assignment/
@@ -34,8 +33,6 @@ ros2_ws/
 │ ├── init.py
 │ └── my_node.py
 └── requirements.txt
-
----
 
 
 
