@@ -43,14 +43,19 @@ ros2_ws/
 4.1 install
 ```bash
 pip install -r requirements.txt
+'''
 
 4.2 Build
+'''bash
 cd ros2_ws
 colcon build
 source install/setup.bash
+'''
 
 4.3 Launch
+'''bash
 ros2 run my_ros2_assignment my_node
+'''
 
 
 
